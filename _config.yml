@@ -19,12 +19,12 @@ email: jerome.l.grosse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Metal Gear Solid Transcript in Japanese and English along
   with vocabulary extracted from the transcripts
-baseurl: "/scissors61" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/scissors61"
+url: "jeromegrosse.github.io/scissors61"
 author:
-  name:
+  name: Scissors! 61!
   twitter: scissors_61
-  picture:
+  picture: /assets/images/avatar.jpg
 twitter_username: scissors_61
 github_username:  jeromegrosse
 logo: # path of site logo, e.g. "/assets/images/logo.png"
@@ -32,6 +32,7 @@ logo: # path of site logo, e.g. "/assets/images/logo.png"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
+plugins: [FuriganaConverter]
 gems:
   - jekyll-feed
   - jekyll-seo-tag
