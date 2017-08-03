@@ -1,14 +1,13 @@
 ---
 layout: post
 title:  "Hudson River, two years ago."
-header:
-  image: /assets/images/01-hudson-river-two-years-ago.jpg
+image: /assets/images/01-hudson-river-two-years-ago.jpg
 date:   2017-08-03 21:32:39 +0200
-categories: jekyll update
+categories: mgs2
 ---
 ##### Transcript
-2年前のハドソン川…
-The Hudson River, two years ago...
+2年前のハドソン川…<br>
+ The Hudson River, two years ago...
 
 俺達は{新型}(しんがた)メタルギアが{極秘裏}(ごくひ)に{輸送}(ゆそう)されるという{情報}(じょうほう)をつかんだ…<br>
 We had classified intelligence that a new type of Metal Gear was scheduled for transport.
