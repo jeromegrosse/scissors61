@@ -24,7 +24,7 @@ twitter_username: scissors_61
 github_username:  jeromegrosse
 
 # Build settings
-markdown: FuriDown
+# markdown: FuriDown
 plugins:
   - jekyll-feed
 
