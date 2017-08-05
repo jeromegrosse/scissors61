@@ -4,6 +4,7 @@ title:  "Stealth camo's busted. Landing impact."
 image: /assets/images/02-camo-s-busted-landing-impact.jpg
 date:   2017-08-04 00:40:00 +0200
 categories: mgs2
+excerpt: The stealth camo's busted. Landing impact. We must have overused it. Sorry, but you're gonna have to deal with it. You're not in the military anymore.
 ---
 ##### Transcript
 *スネーク*: こちらスネーク、 {聞}(き)こえるか、オタコン？<br>

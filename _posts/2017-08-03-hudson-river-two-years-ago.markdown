@@ -3,6 +3,7 @@ layout: post
 title:  "Hudson River, two years ago."
 image: /assets/images/01-hudson-river-two-years-ago.jpg
 date:   2017-08-03 21:32:39 +0200
+excerpt: The Hudson River, two years ago... We had classified intelligence that a new type of Metal Gear was scheduled for transport. The whole thing stank... but our noses have been out in the cold too long.
 categories: mgs2
 ---
 ##### Transcript
