@@ -68,46 +68,49 @@ This new one seems to have been designed to wipe the floor with all the other mo
 That explains why this one is under Marine Corps jurisdiction.
 
 ##### Vocabulary
-* {到着}(とうちゃく): Arrival
-* {上手}(うま)くいく: To go smoostly
-* {着地}(ちゃくち): Landing
-* {衝撃}(しょうげき): Shock
-* {迷彩}(めいさい): Camouflage, disguise
-* {壊}(こわ)れる: To break, to fall apart
-* {我慢}(がまん): Patience
-* {軍}(ぐん): Army
-* {随分}(ずいぶん): Very, extremely
-* {頼}(たよ)る: To rely on
-* {民間}(みんかん): Private, unofficial
-* {守}(まも)る: To guard, to protect, to defend
-* {薬}(くすり): Medicine, pill
-* {見張}(みは)り: Guard, lookout, watch-keeping
-* 気が{楽}(らく): Expresion: My mind is at ease
-* {頼}(たの)む: To request, to ask
-* おく: ?
-* {新}(しん): New-
-* {兵器}(へいき): Weapon
-* {陸軍兵士}(りくぐん): Army
-* {横流}(よこなが)し: Diversion into illegal channels; Putting on the black market
-* {伝}(つた)える: To report, to convey
-* うちに: While, before, during
-* {本題}(ほんだい): Main question
-* {事件}(じけん): Event, incident
-* {技術}(ぎじゅつ): Art, craft, technique
-* {密売}(みつばい): Smuggle
-* {仕業}(しわざ): Action, doing
-* {全世界}(ぜんせかい): The whole world
-* {亜種}(あしゅ): Subspecies
-* {拡散}(かくさん): Scatter, spread
-* {核武装}(かくぶそう): Nuclear weapon
-* {特別}(とくべつ)な: Special
-* {対抗}(たいこう): Opposition, antagonism
-* {設計}(せっけい): To plan, to design
-* {水陸両用}(すいりくりょうよう): Amphibious
-* {対}(たい): Opposition, versus
-* {海兵隊}(かいへたい): Marine corps
-* {所属}(しょぞく): Attached to, belong to
-* {訳}(わけ): For that reason, no wonder...
+
+| Japanese                       | English                                                      |
+|--------------------------------|--------------------------------------------------------------|
+| {到着}(とうちゃく)             | Arrival                                                      |
+| {上手}(うま)くいく             | To go smoostly                                               |
+| {着地}(ちゃくち)               | Landing                                                      |
+| {衝撃}(しょうげき)             | Shock                                                        |
+| {迷彩}(めいさい)               | Camouflage, disguise                                         |
+| {壊}(こわ)れる                 | To break, to fall apart                                      |
+| {我慢}(がまん)                 | Patience                                                     |
+| {軍}(ぐん)                     | Army                                                         |
+| {随分}(ずいぶん)               | Very, extremely                                              |
+| {頼}(たよ)る                   | To rely on                                                   |
+| {民間}(みんかん)               | Private, unofficial                                          |
+| {守}(まも)る                   | To guard, to protect, to defend                              |
+| {薬}(くすり)                   | Medicine, pill                                               |
+| {見張}(みは)り                 | Guard, lookout, watch-keeping                                |
+| 気が{楽}(らく)                 | My mind is at ease                                           |
+| {頼}(たの)む                   | To request, to ask                                           |
+| おく                           | ?                                                            |
+| {新}(しん)                     | New-                                                         |
+| {兵器}(へいき)                 | Weapon                                                       |
+| {陸軍兵士}(りくぐん)           | Army                                                         |
+| {横流}(よこなが)し             | Diversion into illegal channels; Putting on the black market |
+| {伝}(つた)える                 | To report, to convey                                         |
+| うちに                         | While, before, during                                        |
+| {本題}(ほんだい)               | Main question                                                |
+| {事件}(じけん)                 | Event, incident                                              |
+| {技術}(ぎじゅつ)               | Art, craft, technique                                        |
+| {密売}(みつばい)               | Smuggle                                                      |
+| {仕業}(しわざ)                 | Action, doing                                                |
+| {全世界}(ぜんせかい)           | The whole world                                              |
+| {亜種}(あしゅ)                 | Subspecies                                                   |
+| {拡散}(かくさん)               | Scatter, spread                                              |
+| {核武装}(かくぶそう)           | Nuclear weapon                                               |
+| {特別}(とくべつ)な             | Special                                                      |
+| {対抗}(たいこう)               | Opposition, antagonism                                       |
+| {設計}(せっけい)               | To plan, to design                                           |
+| {水陸両用}(すいりくりょうよう) | Amphibious                                                   |
+| {対}(たい)                     | Opposition, versus                                           |
+| {海兵隊}(かいへたい)           | Marine corps                                                 |
+| {所属}(しょぞく)               | Attached to, belong to                                       |
+| {訳}(わけ)                     | For that reason, no wonder...                                |
 
 ##### Media
 <audio controls>

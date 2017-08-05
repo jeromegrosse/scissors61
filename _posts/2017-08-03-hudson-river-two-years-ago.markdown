@@ -18,11 +18,14 @@ The whole thing stank... but our noses have been out in the cold too long.
 
 
 ##### Vocabulary
-* {新型}(しんがた): New type, new model
-* {極秘裏}(ごくひ): Asolute secrecy
-* {輸送}(ゆそう): Transport
-* {情報}(じょうほう): News, intelligence
-* {疑}(うたが)う: To doubt, to suspect
+
+| Japanese           | English              |
+|--------------------|----------------------|
+| {新型}(しんがた)   | New type, new model  |
+| {極秘裏}(ごくひ)   | Asolute secrecy      |
+| {輸送}(ゆそう)     | Transport            |
+| {情報}(じょうほう) | News, intelligence   |
+| {疑}(うたが)う     | To doubt, to suspect |
 
 ##### Media
 <audio controls>
