@@ -7,7 +7,7 @@ categories: mgs2
 ---
 ##### Transcript
 2年前のハドソン川…<br>
- The Hudson River, two years ago...
+The Hudson River, two years ago...
 
 俺達は{新型}(しんがた)メタルギアが{極秘裏}(ごくひ)に{輸送}(ゆそう)されるという{情報}(じょうほう)をつかんだ…<br>
 We had classified intelligence that a new type of Metal Gear was scheduled for transport.
