@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/scissors61/sitemap.xml
+Sitemap: https://jeromegrosse.github.io/scissors61/sitemap.xml
