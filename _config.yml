@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Metal Gear Solid Transcript in Japanese and English along
   with vocabulary extracted from the transcripts
 baseurl: "/scissors61"
-url: "jeromegrosse.github.io/scissors61"
+url: "https://jeromegrosse.github.io"
 author:
   name: Scissors! 61!
   twitter: scissors_61
