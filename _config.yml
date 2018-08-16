@@ -19,8 +19,8 @@ email: jerome.l.grosse@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Metal Gear Solid Transcript in Japanese and English along
   with vocabulary extracted from the transcripts
-baseurl: "/scissors61"
-url: "https://jeromegrosse.github.io"
+baseurl: "/"
+url: "http://www.scissors61.com"
 author:
   name: Scissors! 61!
   twitter: scissors_61
