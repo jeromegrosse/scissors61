@@ -35,9 +35,7 @@ When you want to use the Codec, push the Select Button. When we need to contact 
 Got it. Okay. I'm read to go.
 
 
-
 ##### Vocabulary
-
 
 | Japanese               | English                       |
 |------------------------|-------------------------------|
@@ -59,3 +57,10 @@ Got it. Okay. I'm read to go.
 | {振動}(しんどう)       | Oscillation, vibration, swing |
 | {敵}(てき)             | opponent, rival, adversary​    |
 | {作戦}(さくせん)       | Mission                       |
+
+
+##### Media
+<audio controls>
+ <source src="https://s3-eu-west-1.amazonaws.com/hudson-river-ghost/looks-like-the-elevator-in-the-back-is-the-only-way-up.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
