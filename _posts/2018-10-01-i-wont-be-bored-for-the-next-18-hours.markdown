@@ -33,7 +33,7 @@ Nice to meet you, Snake. It's an honor to speak to a living legend like yourself
 What's wrong.
 
 スネーク<br>
-いや、{画期的}(かっきてき)な{軍}(ぐん){事}(じ){技術}(ぎじゅつ)の開発者がこんなにかわいい女のことは思わなかったものでね。<br>
+いや、{画期的}(かっきてき)な{軍}(ぐん){事}(じ){技術}(ぎじゅつ)の{開発者}(かいはつしゃ)がこんなにかわいい女のことは思わなかったものでね。<br>
 Nothing. I just didn't expect a world-class designer of military technology to be so ...cute.
 
 メイ・リン<br>
